@@ -8,7 +8,7 @@
 
 ## 💡 Personal Projects
 
-### [Contract Vault](#)
+### [Contact Vault](#)
 A secure contact management system  
 → Email/password & OAuth login (Google, GitHub), secure email verification  
 → AWS/Cloudinary integration, Excel export, advanced search, dark/light theme  
