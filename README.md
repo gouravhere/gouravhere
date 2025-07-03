@@ -35,7 +35,6 @@ Group chat platform with real-time messaging
 
 ## 🏆 Achievements
 
-- Rockstar of the Month, Hexaware
 - Twice selected for onsite opportunity in Germany (Deutsche Leasing AG)
 
 ## 📫 Let’s Connect
