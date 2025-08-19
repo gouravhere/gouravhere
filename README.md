@@ -2,7 +2,7 @@
 
 - 🌏 Java Full Stack Developer with 3.5+ years’ experience building scalable, high-performance apps for finance & enterprise clients
 - 🚀 Skilled in Java 8, Spring Boot, React, PL/SQL, REST/SOAP, AWS, Docker & more
-- 🏅 Reduced response times by 30% & improved data reliability by 20% for Deutsche Leasing AG (onsite Germany, twice)
+- 🏅 Reduced response times by 30% & improved data reliability by 20%
 - 🔄 Migrated legacy systems to microservices, led UAT/support, and resolved 67+ client issues
 - 🛠️ Passionate about clean code, cloud integration, and delivering business impact
 
@@ -33,9 +33,6 @@ Group chat platform with real-time messaging
 - GenAI Foundations
 - Google Foundations of User Experience (UX) Design
 
-## 🏆 Achievements
-
-- Twice selected for onsite opportunity in Germany (Deutsche Leasing AG)
 
 ## 📫 Let’s Connect
 
