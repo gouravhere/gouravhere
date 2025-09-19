@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gourav Sharma
 
 - 🌏 Java Full Stack Developer with 3.5+ years’ experience building scalable, high-performance apps for finance & enterprise clients
-- 🚀 Skilled in Java 8, Spring Boot, React, PL/SQL, REST/SOAP, AWS, Docker & more
+- 🚀 Skilled in Java 17+, Spring Boot, React, PL/SQL, REST/SOAP, AWS, Docker & more
 - 🏅 Reduced response times by 30% & improved data reliability by 20%
 - 🔄 Migrated legacy systems to microservices, led UAT/support, and resolved 67+ client issues
 - 🛠️ Passionate about clean code, cloud integration, and delivering business impact
@@ -21,7 +21,7 @@ Group chat platform with real-time messaging
 
 ## 🛠️ Skills
 
-**Languages:** Java 8, JavaScript, SQL  
+**Languages:** Java, JavaScript, SQL  
 **Frameworks:** Spring Boot, JSF, REST, SOAP  
 **Databases:** Oracle, MySQL  
 **Tools:** Eclipse, Git, Jenkins, Maven, SVN, IntelliJ  
